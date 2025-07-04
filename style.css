@@ -1,0 +1,54 @@
+h1{
+    color:blueviolet;
+    font-family:sans-serif;
+}
+
+h2{
+    color:aqua;
+    font-family:sans-serif;
+}
+
+h3{
+    color:blue;
+    font-family:sans-serif;
+}
+
+h4{
+    color:brown;
+    font-family:sans-serif;
+}
+
+h5{
+    color:blue;
+    font-family:sans-serif;
+}
+
+h6{
+    color:red;
+    font-family:sans-serif;
+}
+
+p{
+    color:blue;
+    font-family:sans-serif;
+}
+
+ul{
+    list-style-image:url(Images/pointer-icon.png);
+
+}
+
+ol{
+    list-style:circle;
+}
+
+#menu-bar a{
+    font-family:sans-serif;
+    color:aqua;
+    background-color: blueviolet;
+    padding: 5x;
+}
+
+#menu-bar a:hover{
+    background-color: aquamarine;
+}
